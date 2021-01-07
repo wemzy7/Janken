@@ -1,5 +1,3 @@
-# Janken
-//roe-sham-boe
 #include <iostream>
 int main() {
     double weight;
